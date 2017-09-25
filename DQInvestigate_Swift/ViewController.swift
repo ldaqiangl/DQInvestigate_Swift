@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         self.view.backgroundColor = UIColor.red
         
+        //MARK:make a mark flag
     }
 
     override func didReceiveMemoryWarning() {
